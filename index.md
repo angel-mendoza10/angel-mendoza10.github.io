@@ -16,9 +16,12 @@ For the qualitative measures, we will have a variety of subtasks and methods of 
 The minimum goal we should be able to achieve is to have the agent learn the various subtasks that will be at play and that the agent needs to do in order to beat the ender dragon.
 
 Milestone 1:
-The agent is able to aim and shoot all pillars that are shootable with 100% accuracy and is able to climb up to the pillars that are surrounded by fences and destroy them as well. The agent will have damage resist during this phase. 
- 
+The agent will be able to enter "The End" (realm where the Ender dragon is located) by constructing a portal. Once inside, the agent will try to identify and look at the pillars that it must destroy in order to attack the ender dragon. The agent will have damage resist during this phase.
+
 Milestone 2:
+The agent is able to aim and shoot all pillars that are shootable with 100% accuracy and is able to climb up to the pillars that are surrounded by fences and destroy them as well. The agent will also be able to track the dragon after destroying the pillars. The agent will have damage resist during this phase. 
+ 
+Milestone 3:
 The agent is able to aim and shoot at the dragon while it flies in the air and engage the dragon in melee combat. The agent will have damage resist during this phase. 
  
 #### Realistic Goal
