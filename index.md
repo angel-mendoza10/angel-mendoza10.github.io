@@ -38,3 +38,6 @@ The ambitious goal would be to have the agent be able to defeat the ender dragon
 
 Milestone 1:
 The agent is able to beat the dragon while taking regular amounts of damage and is able to beat and/or come close to the current human record time (1 minute and 30 seconds) held for defeating the ender dragon.
+
+
+Project GitHub Link : https://github.com/dhruvdeepu/CS175Project
